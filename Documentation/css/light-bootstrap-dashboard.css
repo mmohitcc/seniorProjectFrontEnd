@@ -24,6 +24,8 @@
   to {
     -ms-transform: rotate(360deg); } }
 
+@import "functions";
+
 /*           Font Smoothing      */
 body,
 h1, .h1,
